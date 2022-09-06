@@ -1,0 +1,18 @@
+---Para agregar el package JSON al proyecto---
+
+node init -y 
+
+---Para ejectuar un archivo---
+
+node nombreArchivo.js
+
+---Paquete para ejecucion automatica de archivos---
+
+nodemon: (abrir como administrador) npm install nodemon -g
+
+---Express---
+
+Usaremos express para la configuracion de los endpoints y poder tener un 
+backend server.
+
+ 
